@@ -46,14 +46,13 @@ The dataset utilized for this analysis contains historical flight data, includin
 **🚀Getting Started:**
 To run the code, Python 3 and Jupyter Notebook are required. The dataset can be downloaded from [<a href="data/Data_Train.xlsx">source</a>] or the GitHub repository.
 
-🌄 Clone this repository: git clone https://github.com/sairasmi/flight-price-prediction.git
 
 **Data Cleaning and EDA:**
 - `flight_price_prediction.ipynb`: Code for data cleaning, handling missing values, removing duplicates, and performing necessary data transformations.
  Code for descriptive statistics analysis, data visualization, and relationship analysis.
 
 **Author:**
-This project was conducted by **Rasmi Ranjan Swain**. For inquiries, please contact **swainrasmiranjan7@gmail.com**. 
+This project was conducted by **Sneka Ashok**. For inquiries, please contact **snekaaarthi2004@gmail.com**. 
 
 Stay tuned for updates on how this project transforms the landscape of flight price prediction! ✈️🌐 #FlightPricePrediction #DataScience #PredictiveAnalytics #DataDrivenDecisions #machine-learning #regression #random-forest-regression
 #flight-price-prediction
